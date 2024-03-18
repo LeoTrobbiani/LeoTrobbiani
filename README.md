@@ -1,7 +1,9 @@
-- Hi everyone, I'm Leonardo Trobbiani (@LeoTrobbiani), I'm a master student in Astrophysics and Cosmology at the university of Bologna
-- 👀 My main field of intrest and study is Cosmology in particular the several possible cosmological tests that can be performed through the study of Gravitational Lensing, both strong and weak.
-- 🌱 I’m currently working on my master thesis on the detection of Clusters of Galaxies throuh the effect of weak lensing in the background galaxies. Currently working on a code (GtH21 by Panebianco, Maturi and Giocoli) based on the application of an "optimal filter" both to simulated EUCLID data and KiDS real data. I'm training my skills in C++, python and bash coding besides using softwares like DS9 and Topcat.
-- 📫 How to reach me: my institutional e-mail address at the university of Bologna: leonardo.trobbiani@studio.unibo.it
+- Hi everyone, I'm Leonardo Trobbiani (@LeoTrobbiani), I'm a PhD student in Astrophysics and Cosmology at the University of Bologna and Institute of Radioastronomy (INAF-IRA).
+- 👀 My main field of interest and study is galaxy formation and cosmology, I'm specifically interested in using the gravitational lensing phenomena, both strong and weak, as a powerful tool. 
+- 🌱 In my PhD project I'm working with Matteo Bonato and Ivano Baronchelli on a systematic search for ultra-bright high-z strongly lensed galaxies in Planck catalogues. Currently, I'm analysing ATCA data to extract the candidate sources.
+- 🌱 I worked on my master's thesis on the detection of Clusters of Galaxies through the effect of weak lensing in the background galaxies. I developed AMICO-WL, an extension of AMICO (Bellgamba and Maturi) for the application of the "matched optimal filter" technique on Weak Lensing data from wide-field surveys like EUCLID. A paper is in preparation while the code is also participating in an internal EUCLID challenge. 
+- 📫 How to reach me: my e-mail address at the University of Bologna: is leonardo.trobbiani2@unibo.it and leonardo.trobbiani@studio.unibo.it; and my institutional e-mail address at the IRA is leonardo.trobbiani@inaf.it
+
 
 <!---
 LeoTrobbiani/LeoTrobbiani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
